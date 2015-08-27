@@ -7,7 +7,7 @@
 (function(window, $) {
 	var pixelate = function() {
 		var defaults = {
-			value: 0.095,
+			value: 0.085,
 			reveal: false,
 			revealonclick: false
 		};
